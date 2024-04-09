@@ -1,0 +1,5 @@
+name: process
+description: process collection
+artifacts:
+  - live_response/process/ps.yaml
+  - live_response/process/lsof.yaml
